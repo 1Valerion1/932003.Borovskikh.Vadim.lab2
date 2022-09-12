@@ -1,0 +1,40 @@
+body{
+		height: 100%;
+
+	}
+
+header{
+		background-color: #EAEAEA;
+		font-size: x-large;
+		font-weight: bold;
+		padding: 3px 0 35px;
+	}
+
+footer{
+		background-color: black;
+		text-align: center;
+		clear: both;
+		height: 25px;
+	}
+*{
+   margin: 0;
+  }
+
+a{
+ 	color: #FFFF80;
+ 	font-size: 12px;
+ }
+
+ .left{
+		background-color: #C8FC98;
+		float: left;
+		width: 180px;
+		padding: 0 5px;
+		line-height: 25px;
+
+ 	}
+
+ .content{
+ 		line-height: 25px;
+ 		padding-left: 200px;
+ 	}
